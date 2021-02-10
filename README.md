@@ -1,4 +1,4 @@
-# Esports-Matches-Analsis
+# Esports-Matches-Analysis
 Match and Outcome Analysis of CSGO matches for 7 months.
 
 The Data is scraped from HLTV.org for csgo matches for 7 months.
